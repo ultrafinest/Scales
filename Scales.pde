@@ -18,6 +18,5 @@ void scale(int x, int y) {
       ellipse(r, t, x - 30, y -30);
       ellipse(r, t, x - 40, y -40);
     }
-    System.out.println("");
   }
 }
